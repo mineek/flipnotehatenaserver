@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ugo_xml>
+	<layout>
+		<value>0</value>
+	</layout>
+	<title>
+		<label />
+		<label />
+		<label />
+		<label />
+		<label />
+		<num>0</num>
+	</title>
+	<button>
+		<label>Flipnote Hatena Server</label>
+		<address>http://flipnote.hatena.com/ds/v2-eu/frontpage/hotmovies.uls</address>
+		<trait>100</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>News</label>
+		<address>http://flipnote.hatena.com/ds/v2-eu/help/news.htm?mode=archives</address>
+		<trait>0</trait>
+		<value />
+		<value>0</value>
+	</button>
+	<button>
+		<label>Post</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/post/flipnote.post</address>
+		<trait>0</trait>
+		<value />
+		<value>0</value>
+	</button>
+</ugo_xml>
